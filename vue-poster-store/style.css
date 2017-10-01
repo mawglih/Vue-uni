@@ -159,7 +159,7 @@ h1 {
 
 .product-image {
     max-height: 150px;
-    width: 250px;
+    
     overflow: hidden;
     border: 1px solid #E9E9E9;
     border-radius: 2px;
@@ -236,4 +236,9 @@ h1 {
 
 .cart ul .cart-item button {
     margin-right: 3px;
+}
+.no-image {
+    width: 150px;
+    height:100px;
+    background-color: gray;
 }
